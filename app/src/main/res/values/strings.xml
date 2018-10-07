@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Hacker</string>
+    <string name="offline_mode">No Internet, Offline Mode On</string>
+    <string name="no_stories_found">No Stories Found</string>
+</resources>
